@@ -2,3 +2,29 @@ Helper Methods
 
 	-->DD(Die & Dump)
 	-->
+
+Asset Helper 
+
+
+
+
+
+
+----------------------------------------------------------------
+---->Factories (Model Factories)  :
+
+Laravel has a feature called model factories that allows you 
+to build fake data for your models. It is very useful for testing
+ and seeding fake data into your database to see your code in 
+action before any real user data comes in 
+
+
+
+
+
+
+
+------------------------
+ Props are just data that we want to pass through to that component 
+so that we can use it within the component.
+ So we can read/use it whenever we like within that component.
