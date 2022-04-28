@@ -28,3 +28,14 @@ action before any real user data comes in
  Props are just data that we want to pass through to that component 
 so that we can use it within the component.
  So we can read/use it whenever we like within that component.
+
+------------Resource Method Naming----------
+
+common Resources Routes : s
+index - show All (listings) 
+show  -  show single (listing) 
+create - show form to create a new (listing)
+store - store new (listing)
+edit - show form to edit listing 
+update - Update listing 
+destroy  delete listing 
